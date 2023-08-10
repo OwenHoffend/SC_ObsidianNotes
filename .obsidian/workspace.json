@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "ed3f7ffc360d5aa0",
+    "type": "split",
+    "children": [
+      {
+        "id": "66bce01601040a85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "620c59f3438ab2f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "papers/interpolation/Hardware accelerator for real-time image resizing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e54563d663b49364",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "bb7b2f1ea8588c3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Interpolation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "41528a950659b68d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b195109f8ff22a3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06cdceb747896dce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7bd2601f051318d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5a7d32fd3f033e22",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "fc816026be243dba",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7857def13edbb2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "367bb76f2927b37d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/Interpolation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7122ecc7142dff24",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notes/Interpolation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0cdbbf025437e9b1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1b48b77bc12cbac8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notes/Interpolation.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bb7b2f1ea8588c3d",
+  "lastOpenFiles": [
+    "papers/interpolation/Hardware accelerator for real-time image resizing.md",
+    "papers/interpolation/Hardware Adaptive High-Order Interpolation for Real-Time Graphics.md",
+    "notes/Interpolation.md",
+    "Pasted image 20230810154816.png",
+    "imgs/Pasted image 20230810154443.png",
+    "papers/interpolation/Image super-resolution via deterministic-stochastic synthesis and local statistical rectification.md",
+    "notes/SC Interpolation.md",
+    "papers/A New Correlation Manipulation Circuit for Stochastic Computing.md",
+    "papers/Mean Circuit Design Using Correlated Random Bitstreams in Stochastic Computing.md",
+    "papers/Weighted-Adder-Based Polynomial Computation Using Correlated Unipolar Stochastic Bitstreams.md",
+    "papers/A Fast Fault-Tolerant Architecture for Sauvola Local Image Thresholding Algorithm Using Stochastic Computing.md",
+    "notes/Ideas for Early Termination.md",
+    "papers/interpolation",
+    "notes",
+    "papers/Remodelling correlation - A fault resilient technique of correlation sensitive stochastic designs.md",
+    "papers",
+    "papers/High Quality Down-Sampling for Deterministic Approaches to Stochastic Computing.md",
+    "papers/Polynomial computation using unipolar stochastic logic and correlation technique.md",
+    "imgs/Pasted image 20230802232712.png",
+    "imgs/Pasted image 20230802232712 1.png",
+    "imgs/Pasted image 20230802234852.png",
+    "imgs",
+    "How to use Obsidian.md",
+    "A linked Document.md"
+  ]
+}
